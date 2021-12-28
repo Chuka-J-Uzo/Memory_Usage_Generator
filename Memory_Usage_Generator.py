@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[15]:
-
 
 import psutil
 import matplotlib.pyplot as plt
@@ -76,8 +74,6 @@ def main():
 if __name__ == '__main__':
     main()
 
-
-# In[ ]:
 
 
 
